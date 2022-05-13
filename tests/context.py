@@ -1,0 +1,1 @@
+from src.utils.udf import udf_get_bucket_name
